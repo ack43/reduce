@@ -1,5 +1,7 @@
 Lossless reduction for js, css, html, xml, jpg, png, gif
 
+Only for https://gist.github.com/ack43/4c7498ff2a53d41cba76d2ab66b4287e
+
 Install
 =======
     install ruby + rubygems
